@@ -48,6 +48,7 @@
      <Compile Include="Assets\Ammo.cs" />
      <Compile Include="Assets\AmmoCollection.cs" />
      <Compile Include="Assets\CollectionGold.cs" />
+     <Compile Include="Assets\DoorManager.cs" />
      <Compile Include="Assets\Points.cs" />
      <Compile Include="Assets\ProCore\ProBuilder\API Examples\Icosphere FFT\Scripts\CameraControls.cs" />
      <Compile Include="Assets\ProCore\ProBuilder\API Examples\Icosphere FFT\Scripts\IcoBumpin.cs" />

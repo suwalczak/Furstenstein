@@ -15,7 +15,7 @@ public class timer : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		time += Time.deltaTime;
-		Debug.Log(time);
+		//Debug.Log(time);
 
 		timeText.text = "" + (int)time;	
 	}
