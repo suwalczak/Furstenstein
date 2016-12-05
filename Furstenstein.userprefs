@@ -1,13 +1,8 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\DoorManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Skrypty\Wystrzal.js">
     <Files>
-      <File FileName="Assets\Skrypty\Wystrzal.js" Line="1" Column="1" />
-      <File FileName="Assets\CollectionGold.cs" Line="1" Column="1" />
-      <File FileName="Assets\Points.cs" Line="1" Column="1" />
-      <File FileName="Assets\timer.cs" Line="18" Column="5" />
-      <File FileName="Assets\Ammo.cs" Line="21" Column="1" />
-      <File FileName="Assets\DoorManager.cs" Line="17" Column="3" />
+      <File FileName="Assets\Skrypty\Wystrzal.js" Line="6" Column="19" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
